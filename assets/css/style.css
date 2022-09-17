@@ -61,17 +61,7 @@ body {
   padding: 0 30px;
 }
 
-/* footer */
-.attribution {
-  position: absolute;
-  bottom: 5%;
-  font-size: 11px;
-  text-align: center;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
-
+/* responsive */
 @media (max-width: 400px) {
   .container {
     width: 300px;
